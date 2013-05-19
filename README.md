@@ -3,6 +3,7 @@ emacs-visual-tweaks
 
 Personal tweaks to Emacs's appearance:
 ![Example](https://raw.github.com/katenym/emacs-visual-tweaks/master/example.png)
+
 (Shown with the [M+ 1mn Light](http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/design/index-en.html#mono) font.
 
 #### color-theme-zenburn.el
