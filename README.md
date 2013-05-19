@@ -2,6 +2,7 @@ emacs-visual-tweaks
 ===================
 
 Personal tweaks to Emacs's appearance:
+![Example](https://raw.github.com/katenym/emacs-visual-tweaks/master/example.png)
 
 #### color-theme-zenburn.el
   * Forked from an old version of https://github.com/bbatsov/zenburn-emacs
